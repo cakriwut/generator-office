@@ -2,7 +2,7 @@
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 /* eslint-disable no-multiple-empty-lines,no-unused-vars,semi */
 import Vue from 'vue'
-import App from './App'
+import App from './App.vue'
 
 <%- imports %>
 /* eslint-enable no-multiple-empty-lines,no-unused-vars,semi */
